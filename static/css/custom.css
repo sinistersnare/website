@@ -1,0 +1,13 @@
+.PostList { margin-left:20%; font-size:20px;}
+.PostText { margin-left: 20%; margin-right: 10%; font-size:20px;}
+.PostTitle { margin-left: 18%; }
+.SiteTitle { margin-left: 15%; }
+.SiteHeader { margin-left:15%; }
+.HeaderItem { margin-left: 2%; }
+
+
+a:hover {
+    text-decoration: none;
+}
+
+
