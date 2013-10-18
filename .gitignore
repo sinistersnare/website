@@ -4,6 +4,8 @@
 *.so
 
 env/ #my virtualenv
+build/ #is build folder. check sinistersnare/sinistersnare.github.io for build.
+
 
 # Packages
 *.egg
